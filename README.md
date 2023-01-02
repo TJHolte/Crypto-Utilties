@@ -1,1 +1,1 @@
-# Crypto-Utilties-
+This program takes a user-inputted number and uses exponentiation and incrementation to determine if it is composite or (very very) likely prime. If composite, the program will generate the next likely prime.
